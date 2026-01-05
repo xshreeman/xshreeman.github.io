@@ -53,7 +53,7 @@
       <p>
         I'm interested in computers and robots. I also love programming,
         physics, music, reading, chess, poker, movies, basketball, astronomy,
-        motorsports, travlling, walking and sleeping.
+        motorsports, travelling, walking and sleeping.
       </p>
 
       <p>Hopefully, there will be time for everything.</p>
