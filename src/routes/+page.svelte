@@ -23,7 +23,7 @@
 </script>
 
 <Seo
-  title="Shreesh Tripathi"
+  title="Shreeman Tripathi"
   description="is a computer engineer, daydreamer, and a confused human."
 />
 
@@ -43,17 +43,17 @@
   >
     <div class="w-1/2 md:w-1/3">
       <img
-        alt="Photograph of Shreesh Tripathi"
+        alt="Photograph of Shreeman Tripathi"
         src="/assets/images/profile.png"
         class="scale-110"
       />
     </div>
     <div class="md:w-2/3 space-y-5">
-      <p>Hello, I’m Shreesh and I love computers.</p>
+      <p>Hello, I’m Shreeman and I love computers.</p>
       <p>
-        I'm interested in computer architecture and design. I also love
-        programming, music, reading, chess, poker, movies, video games, tennis,
-        astronomy, motorsports, walking and sleeping.
+        I'm interested in computers and robots. I also love
+        programming, physics, music, reading, chess, poker, movies, basketball,
+        astronomy, motorsports, travlling, walking and sleeping.
       </p>
 
       <p>Hopefully, there will be time for everything.</p>
@@ -87,12 +87,11 @@
   <div class="space-y-2 text-md md:text-lg">
     <u>Some things I believe in:</u>
     <ul>
-      <li>• Every cycle counts and very little matters.</li>
-      <li>• Tools are meant to be mastered not worshipped.</li>
-      <li>• Most things are at least simple, if not easy.</li>
+      <li>• The next corner is just around the corner.</li>
+      <li>• Rock bottom is a very romantic place to be in.</li>
+      <li>• The secret ingredient is you.</li>
       <li>• Laws of physics are the only limit.</li>
       <li>• Everything is a system, and systems resist formalization.</li>
-      <li>• How you do anything is how you do everything.</li>
       <li>• Learning comes from doing, not reading or thinking.</li>
       <li>• Everything is made up and there are no prerequisites.</li>
       <li>• In the end, people are everything.</li>

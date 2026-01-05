@@ -1,7 +1,9 @@
 <script lang="ts">
-  import { page } from "$app/stores";
-
   import Seo from "$lib/components/Seo.svelte";
+
+  // Notes listing temporarily disabled while the page is under progress.
+  /*
+  import { page } from "$app/stores";
   import Post from "./Post.svelte";
 
   const notes = import.meta.glob("../../notes/*.md", {
@@ -21,10 +23,11 @@
     const dateB = notes[b].date ? new Date(notes[b].date).getTime() : 0;
     return dateB - dateA;
   });
+  */
 </script>
 
 <Seo
-  title="Shreesh's Notes"
+  title="Shreeman's Notes"
   description="is a computer engineer, daydreamer, and a confused human."
 />
 
@@ -35,8 +38,12 @@
     </em>
   </p>
   <hr class="my-8" />
+  <p class="text-md md:text-lg mt-4">
+    under work.
+  </p>
 </section>
 
+<!--
 <div class="notes flex flex-col">
   {#each notesByDate as id (id)}
     <section class="" id={trimName(id)}>
@@ -47,6 +54,7 @@
     </section>
   {/each}
 </div>
+-->
 
 <style lang="postcss">
 </style>

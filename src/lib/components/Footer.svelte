@@ -3,22 +3,22 @@
   <!-- <div class="row">
     <span>𝕏</span>
     <hr />
-    <a class="link" href="https://x.com/c0mputerist">@c0mputerist</a>
+    <a class="link" href="https://x.com/xshreeman278">@xshreeman278</a>
   </div> -->
   <div class="row">
     <span>GitHub</span>
     <hr />
-    <a class="link" href="https://github.com/notsheesh">@notsheesh</a>
+    <a class="link" href="https://github.com/xshreeman">@xshreeman</a>
   </div>
   <div class="row">
     <span>Email</span>
     <hr />
-    <a class="link" href="mailto:xshreesh@gmail.com">xshreesh@gmail.com</a>
+    <a class="link" href="mailto:xshreeman@gmail.com">xshreeman@gmail.com</a>
   </div>
   <div class="row">
     <span>LinkedIn</span>
     <hr />
-    <a class="link" href="https://linkedin.com/in/xshreesh">xshreesh</a>
+    <a class="link" href="https://linkedin.com/in/xshreeman">xshreeman</a>
   </div>
 </footer>
 

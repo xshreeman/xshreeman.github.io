@@ -24,7 +24,7 @@
 </script>
 
 <Seo
-  title="Shreesh's Pieces"
+  title="Shreeman's Pieces"
   description="is a computer engineer, daydreamer, and a confused human."
 />
 
@@ -37,24 +37,16 @@
   </div>
   <hr />
   <p class="mt-4 mb-4">
-    After much searching, I've settled on the idea that you're born as a
-    painting, a complete picture, which is then jigsawed into pieces, shuffled
-    and scattered. The rest of your life is about rediscovering those pieces --
-    in people, places and moments -- and thus, your true self.
+    under work.
   </p>
   <p class="mb-4">
-    This idea permits duality and fits squarely with both: the divine
-    benevolence, cosmic order or destiny, and the raw and rather unmystical
-    control and agency humans have over their lives.
+    
   </p>
   <p class="mb-4">
-    You could think of it as an acknowledgments section, but for a puzzle, that
-    is, me -- a thank you to the people who raised me, challenged me, and
-    believed in me, the experiences that broke me open and allowed me to put
-    myself back together and the moments that reminded me who I really am.
+    
   </p>
   <p class="mb-4">
-    For who I am and what I have to offer, I owe it all to these pieces.
+    
   </p>
   <hr class="my-8" />
 </section>
