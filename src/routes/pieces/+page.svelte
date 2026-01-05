@@ -36,18 +36,10 @@
     >
   </div>
   <hr />
-  <p class="mt-4 mb-4">
-    under work.
-  </p>
-  <p class="mb-4">
-    
-  </p>
-  <p class="mb-4">
-    
-  </p>
-  <p class="mb-4">
-    
-  </p>
+  <p class="mt-4 mb-4">under work.</p>
+  <p class="mb-4" />
+  <p class="mb-4" />
+  <p class="mb-4" />
   <hr class="my-8" />
 </section>
 

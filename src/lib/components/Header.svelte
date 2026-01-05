@@ -37,7 +37,7 @@
       </span>
     {/if} -->
   </h1>
-  <nav> 
+  <nav>
     {#each links as link (link)}
       <a
         href={link.href}

@@ -17,9 +17,11 @@
     dates="October 2025 – Present"
     location="Pilani, India"
   >
-    <li>Corroborating finances of Student's Union, Annual Cultural Fest and Annual Tech Fest in College.</li>
+    <li>
+      Corroborating finances of Student's Union, Annual Cultural Fest and Annual
+      Tech Fest in College.
+    </li>
     <li>Funds under management exceeding 5cr INR (or 600k USD)</li>
-    
   </Workplace>
 </section>
 
@@ -28,11 +30,14 @@
 
   <div class="mb-4">
     <div class="flex justify-between items-end">
-      <h3 class="text-black text-lg">Birla Institute of Technology and Science Pilani, Pilani Campus</h3>
+      <h3 class="text-black text-lg">
+        Birla Institute of Technology and Science Pilani, Pilani Campus
+      </h3>
       <div class="text-neutral-500 mb-0.5">Aug 2024 — May 2029*</div>
     </div>
     <p class="byline">
-      Integrated Dual Degree - Bachelor of Engineering, Electronics and Communication Engineering and Masters in Physics
+      Integrated Dual Degree - Bachelor of Engineering, Electronics and
+      Communication Engineering and Masters in Physics
     </p>
   </div>
 </section>

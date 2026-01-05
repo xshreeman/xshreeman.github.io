@@ -38,9 +38,7 @@
     </em>
   </p>
   <hr class="my-8" />
-  <p class="text-md md:text-lg mt-4">
-    under work.
-  </p>
+  <p class="text-md md:text-lg mt-4">under work.</p>
 </section>
 
 <!--

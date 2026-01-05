@@ -51,9 +51,9 @@
     <div class="md:w-2/3 space-y-5">
       <p>Hello, I’m Shreeman and I love computers.</p>
       <p>
-        I'm interested in computers and robots. I also love
-        programming, physics, music, reading, chess, poker, movies, basketball,
-        astronomy, motorsports, travlling, walking and sleeping.
+        I'm interested in computers and robots. I also love programming,
+        physics, music, reading, chess, poker, movies, basketball, astronomy,
+        motorsports, travlling, walking and sleeping.
       </p>
 
       <p>Hopefully, there will be time for everything.</p>
